@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm archby
 
 [![Profile Views](https://komarev.com/ghpvc/?username=archby&color=brightgreen)](https://github.com/archby)  
-[![GitHub followers](https://img.shields.io/github/followers/archby?label=Follow&style=social)](https://github.com/archby) [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)  
+[![GitHub followers](https://img.shields.io/github/followers/archby?label=Follow&style=social)](https://github.com/archby)
 ---
 
 ## Hello! 👋 I build things that solve (my) real problems and love tech.
